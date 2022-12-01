@@ -1,6 +1,6 @@
 [![header][header-url]][header-link]
 
-# Project Name
+# Languages
 [![Frontend][Frontend-image]][Frontend-url]
 [![Backend][Backend-image]][Backend-url]
 
@@ -20,7 +20,7 @@ Vous trouverez ici les projets perso et scolaire :dizzy:
 
 <!-- Markdown link & img dfn's -->
 
-[header-url]: https://user-images.githubusercontent.com/52856626/205103332-8841c924-eee4-44a8-a363-19da8e04eeba.png
+[header-url]: https://acikozm.etu.mmi-unistra.fr/portfolio/web3lib/img2/banner.png
 [header-link]: https://www.linkedin.com/in/melih-acikoz-b68216129/
 
 [repository-url]: https://github.com/melih67?tab=repositories
