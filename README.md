@@ -1,38 +1,33 @@
-[![header][header-url]][header-link]
+[![Header Banner][header-url]][header-link]
 
-# Languages
-[![Frontend][Frontend-image]][Frontend-url]
-[![Backend][Backend-image]][Backend-url]
+# Hi there, I'm Melih 👋 
 
-## :nail_care: Laissez moi me présenter
+```cyberpunk
+  [+] Role: Cyber Security Researcher & Fullstack Developer
+  [+] Focus: Offensive Security | Web Exploitation | Modern Web Stack
+  [+] Status: Hunting bugs & building scalable applications 🚀
 
-Je m'appele Melih. J'ai 21 ans je suis actuellement en deuxème année en BUT MMI spécialisé en développeur web.:mortar_board:
-Vous trouverez ici les projets perso et scolaire :dizzy:
+```
 
-## Quelques liens
+---
 
-* [Mon Repo][repository-url] (Mes projets)
-* [Mon site internet][cloud-provider-url]
-* [LinkedIn][linkedin-url]
+### 🛡️ Cyber Security & Tech Stack
 
+| **Domain** | **Technologies & Skills** |
+| --- | --- |
+| **Offensive Security** | Web Pentesting, Vulnerability Assessment, Recon, OWASP Top 10 |
+| **Frontend** | JavaScript / TypeScript, React, Vue, HTML5/CSS3, Tailwind |
+| **Backend & APIs** | Node.js, Python, Java, PHP, REST APIs |
+| **Tools & Platforms** | Burp Suite, Metasploit, Nmap, Git, Docker, Linux |
 
+---
 
+### 🚀 About Me
 
-<!-- Markdown link & img dfn's -->
+* 💻 **Fullstack Developer** turning complex ideas into clean, efficient code.
+* 🎯 **Bug Bounty Hunter** finding security flaws before the bad guys do.
+* 🔍 Always learning new exploitation techniques and modern web frameworks.
 
-[header-url]: https://acikozm.etu.mmi-unistra.fr/portfolio/web3lib/img2/banner.png
-[header-link]: https://www.linkedin.com/in/melih-acikoz-b68216129/
+---
 
-[repository-url]: https://github.com/melih67?tab=repositories
-
-[cloud-provider-url]: https://acikozm.etu.mmi-unistra.fr/
-
-[linkedin-url]: https://www.linkedin.com/in/melih-acikoz-b68216129/
-
-
-[version-image]: https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=appveyor
-[version-url]: https://img.shields.io/badge/version-1.0.0-green
-[Frontend-image]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
-[Frontend-url]: https://img.shields.io/badge/Frontend-Ionic-blue?style=for-the-badge
-[Backend-image]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
-[Backend-url]: https://img.shields.io/badge/Backend-Java%208-important?style=for-the-badge
+### 🔗 Let's Connect
