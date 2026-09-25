@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/melih-acikoz-b68216129/">
-    <img src="./assets/banner.svg" alt="sudomake banner" width="100%" />
+    <img src="./banner.svg" alt="sudomake banner" width="100%" />
   </a>
 </div>
 
